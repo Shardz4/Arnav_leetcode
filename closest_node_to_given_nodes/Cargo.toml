@@ -1,0 +1,6 @@
+[package]
+name = "closest_node_to_given_nodes"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
